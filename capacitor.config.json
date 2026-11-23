@@ -3,7 +3,7 @@
   "appName": "自动出餐",
   "webDir": "www",
   "server": {
-    "url": "https://hm.zunlan.net",
+    "url": "https://hm.zunlan.net/index.html",
     "cleartext": false,
     "allowNavigation": [
       "hm.zunlan.net",
